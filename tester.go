@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"./models"
-	"./repo"
+	"github.com/restream/gophercon2019_ft_tester/models"
+	"github.com/restream/gophercon2019_ft_tester/repo"
 
 	"github.com/valyala/fasthttp"
 )

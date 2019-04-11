@@ -6,7 +6,7 @@ import (
 	"os"
 	"path"
 
-	"../models"
+	"github.com/restream/gophercon2019_ft_tester/models"
 )
 
 type DataHolder struct {
